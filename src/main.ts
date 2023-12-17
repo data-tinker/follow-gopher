@@ -12,7 +12,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
       <img class="eye" src="${eyeImage}" style="bottom: 70px; left: 103px" alt="Gopher Right Eye">
     </div>
     <p class="read-the-docs">
-      <a href="https://github.com/tty-monkey/gopher-eyes-follow">Source code</a>
+      <a href="https://github.com/tty-monkey/gopher-eyes-follow-mouse">Source code</a>
     </p>
   </div>
 `
