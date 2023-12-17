@@ -1,4 +1,4 @@
-# Gopher Eyes Follow Pointer
+# Gopher Eyes Follow Mouse
 Fun project where Gopher's eyes follow mouse movement, [demo](https://gopher-eye-tracking.vercel.app/)  
 Inspiration was taken from the video ["How to make Eyeballs that Follow You Around"](https://www.youtube.com/watch?v=TGe3pS5LqEw)
   
