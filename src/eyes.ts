@@ -12,7 +12,6 @@ export function setupEyes() {
     const mouseY = e.clientY
 
     const angleDeg = getAngleDeg(mouseX, mouseY, anchorX, anchorY)
-    console.log(angleDeg)
 
     eyes.forEach((eye) => {
       ;(eye as HTMLElement).style.transform = `rotate(${180 + angleDeg}deg)`
