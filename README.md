@@ -2,7 +2,7 @@
 Fun project where Gopher's eyes follow mouse movement, [demo](https://gopher-eye-tracking.vercel.app/)  
 Inspiration was taken from the video ["How to make Eyeballs that Follow You Around"](https://www.youtube.com/watch?v=TGe3pS5LqEw)
   
-<img src="https://github.com/tty-monkey/gopher-eyes-follow-mouse/blob/main/demo.gif" width="450"/>
+<img src="https://github.com/tty-monkey/gopher-eyes-follow/blob/main/demo.gif" width="450"/>
   
 ## Starting the development server
 1. Install the necessary dependencies:
